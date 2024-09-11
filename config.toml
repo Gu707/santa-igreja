@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'pt-br'
+title = 'Salve Maria!'
+paginate = 5
+theme = "paper"
+DefaultContentLanguage = "pt-br"
+
+
+[params]
+  color = 'linen'
+
+  github = 'gu707'
+  instagram = 'gugaj4coree'
+
+avatar = ''
+  name = 'Gustavo Silva Araujo'
+  bio = 'Tenho a alegria de criar esse blogue para compartilhar com todos que desejam aprender sobre a nossa santa igraja catolica.'
