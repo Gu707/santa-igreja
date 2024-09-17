@@ -5,6 +5,8 @@ paginate = 5
 theme = "paper"
 DefaultContentLanguage = "pt-br"
 
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+
 
 [params]
   color = 'linen'
