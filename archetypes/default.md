@@ -1,5 +1,5 @@
 ----
 title: "{{ replace .Name '-' ' ' | title }}"
-date: "YYYY-MM-DD" # Substitua pelo formato de data desejado.
+date: "2024-09-16" # Substitua pelo formato de data desejado.
 draft: true
 ----
