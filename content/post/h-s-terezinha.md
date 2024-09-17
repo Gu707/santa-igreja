@@ -1,5 +1,5 @@
 +++
-author = "lee.so"
+author = "Gustavo Silva"
 title = "Santa Terezinha"
 date = "2024-09-11"
 description = "A menina que buscava ser santas nas pequenas coisas"

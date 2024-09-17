@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://gu707.github.io/santa-igreja/'
 languageCode = 'pt-br'
 title = 'Salve Maria!'
 paginate = 5
